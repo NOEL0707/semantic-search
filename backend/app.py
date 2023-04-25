@@ -25,7 +25,7 @@ PORT = 19530
 COLLECTION_NAME = 'book_search'
 DIMENSION = 1536
 OPENAI_ENGINE = 'text-embedding-ada-002'
-openai.api_key = "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"
+openai.api_key = ""
 INDEX_PARAM = {
     'metric_type':'L2',
     'index_type':"HNSW",

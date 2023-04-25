@@ -11,7 +11,7 @@
 /.ipynb_checkpoints
 # production
 /build
-
+/volumes/*
 # misc
 .DS_Store
 .env.local
